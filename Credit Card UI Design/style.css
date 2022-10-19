@@ -96,3 +96,10 @@ h1.name
     justify-content: space-between;
     align-items: flex-end;
 }
+
+h3
+{
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+}
